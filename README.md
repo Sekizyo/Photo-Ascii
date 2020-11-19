@@ -3,7 +3,7 @@
 </p>
 
 
-## Spis treści
+## Table of Contents
 
 * [About](#About)
 * [Instalation](#Instalation)
