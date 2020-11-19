@@ -1,0 +1,9 @@
+bin/
+include/
+lib/
+lib64/
+share/
+lib64
+test.bmp
+pyvenv.cfg
+tempCodeRunnerFile.py
